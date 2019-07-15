@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Sumar</string>
+    <string name="lvlTvNumber1">Captura el primer numero</string>
+    <string name="lblBtnDo">Sumar</string>
+    <string name="lvlTvNumber2">Captura el segundo numero</string>
+    <string name="lblTvResultado">Resultado</string>
+</resources>
